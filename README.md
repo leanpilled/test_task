@@ -1,0 +1,1 @@
+to build api simply run docker compose up --build
